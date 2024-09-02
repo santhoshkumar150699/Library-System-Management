@@ -23,6 +23,6 @@ This project demonstrates the implementation of a Library Management System usin
 - Task 6: Create Summary Tables: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt**
 
 
-(git clone https://github.com/najirh/Library-System-Management---P2.git)
+(https://github.com/najirh/Library-System-Management)
 
 
