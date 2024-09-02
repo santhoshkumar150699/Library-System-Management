@@ -19,13 +19,10 @@ This project demonstrates the implementation of a Library Management System usin
 * Read: Retrieved and displayed data from various tables.
 * Update: Updated records in the employees table.
 * Delete: Removed records from the members table as needed.
+## 3. CTAS (Create Table As Select)
+- Task 6: Create Summary Tables: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt**
 
 
+  ![image](git clone https://github.com/najirh/Library-System-Management---P2.git)
 
 
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/93aeea52-1056-493f-9c40-cc61db2e125b)
